@@ -29,6 +29,10 @@
 <br />
 <br />
 
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiomaVytrykush&repo=github-readme-stats" />
+
+
 [website]: https://diomavytrykush.github.io/MyPortfolio/
 [instagram]: https://www.instagram.com/Spo7l1ght/
 [linkedin]: https://www.linkedin.com/in/demian-vytrykush-9899b01a3/
