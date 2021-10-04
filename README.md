@@ -30,7 +30,7 @@
 <br />
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiomaVytrykush&repo=github-readme-stats&show_icons=true&bg_color=90deg, rgba(210,207,50,1) 17%, rgba(121,9,74,1) 100%, rgba(0,212,255,1) 100%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiomaVytrykush&repo=github-readme-stats&show_icons=true&bg_color=90deg, rgba(210,207,50,1),rgba(121,9,74,1),rgba(0,212,255,1)" />
 
 
 [website]: https://diomavytrykush.github.io/MyPortfolio/
